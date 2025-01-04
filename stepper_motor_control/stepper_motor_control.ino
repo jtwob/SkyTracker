@@ -20,7 +20,7 @@ void loop() {
   stepMotor();
   delay(dayLen*1000/(stepsPerRevolution*16)); 
 
-  // // Rotate counterclockwise
+  //Rotate counterclockwise
   // digitalWrite(DIR_PIN, LOW); // Set direction to counterclockwise
   // for (int i = 0; i < stepsPerRevolution*16; i++) {
   //   stepMotor();
