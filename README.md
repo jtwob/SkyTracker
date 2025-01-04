@@ -28,6 +28,10 @@ In order to use this device effectively, the rotation axis must be pointing dire
 
 ![SkyTracker v2 Prototype](./V2.JPG)
 
+I managed to take a few pictures with the V2, but it was quite difficult to target properly due to the lever mechanics of the design mentioned previously. The best image I was able to capture is included below, and it features Orion's Belt, with the top of the Orion Nebula cutoff at the bottom of the photo.
+
+![Orion's Belt](./OrionsBeltV2.JPG)
+
 ## The SkyTracker v1
 
 ![SkyTracker v1 Prototype](./V1.JPG)
