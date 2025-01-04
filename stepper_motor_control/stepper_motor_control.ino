@@ -15,14 +15,12 @@ void setup() {
 }
 
 void loop() {
-  // Rotate clockwise
+  // // Rotate once per day
   digitalWrite(DIR_PIN, HIGH); // Set direction to clockwise
   stepMotor();
-  // for (int i = 0; i < stepsPerRevolution; i++) {
-  // }
-  delay(dayLen*1000/(stepsPerRevolution*16)); // Pause for 1 second
+  delay(dayLen*1000/(stepsPerRevolution*16)); 
 
-  // Rotate counterclockwise
+  // // Rotate counterclockwise
   // digitalWrite(DIR_PIN, LOW); // Set direction to counterclockwise
   // for (int i = 0; i < stepsPerRevolution*16; i++) {
   //   stepMotor();
