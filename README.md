@@ -22,7 +22,7 @@ The v3 is controlledby an Arduino that holds the timing instructions and transla
 
 ### Viewing Celestial Bodies
 
-In order to use this device effectively, the rotation axis must be pointing directly at Polaris so that it co-rotates with the sky. I intend to create easier sighting mechanisms than the current method of eyeballing the lineup, perhaps a small magnification crosshair scope. After that, it is simply a matter of pointing the camera at the desired target.
+In order to use this device effectively, the rotation axis must be pointing directly at Polaris so that it co-rotates with the sky. I intend to create easier sighting mechanisms than the current method of eyeballing the lineup, perhaps a small magnification crosshair scope. Eventually I hope to mount the whole assembly on a motorized swivel so that alignment can also be automated. After that, it is simply a matter of pointing the camera at the desired target.
 
 ## The SkyTracker v2
 
